@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FitEnd.Domain/1.0.0": {
+        "runtime": {
+          "FitEnd.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FitEnd.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

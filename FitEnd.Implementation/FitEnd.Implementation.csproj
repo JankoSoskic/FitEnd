@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FitEnd.Application\FitEnd.Application.csproj" />
+    <ProjectReference Include="..\FitEnd.DataAccess\FitEnd.DataAccess.csproj" />
+    <ProjectReference Include="..\FitEnd.Domain\FitEnd.Domain.csproj" />
+    <ProjectReference Include="..\FitEnd.Domen\FitEnd.Domen.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="FluentValidation" Version="10.2.3" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+  </ItemGroup>
+
+</Project>

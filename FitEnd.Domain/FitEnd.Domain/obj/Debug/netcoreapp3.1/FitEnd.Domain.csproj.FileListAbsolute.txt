@@ -1,0 +1,9 @@
+D:\Svi Projekti\ASP\FitEnd\FitEnd.Domain\FitEnd.Domain\bin\Debug\netcoreapp3.1\FitEnd.Domain.deps.json
+D:\Svi Projekti\ASP\FitEnd\FitEnd.Domain\FitEnd.Domain\bin\Debug\netcoreapp3.1\FitEnd.Domain.dll
+D:\Svi Projekti\ASP\FitEnd\FitEnd.Domain\FitEnd.Domain\bin\Debug\netcoreapp3.1\FitEnd.Domain.pdb
+D:\Svi Projekti\ASP\FitEnd\FitEnd.Domain\FitEnd.Domain\obj\Debug\netcoreapp3.1\FitEnd.Domain.csprojAssemblyReference.cache
+D:\Svi Projekti\ASP\FitEnd\FitEnd.Domain\FitEnd.Domain\obj\Debug\netcoreapp3.1\FitEnd.Domain.AssemblyInfoInputs.cache
+D:\Svi Projekti\ASP\FitEnd\FitEnd.Domain\FitEnd.Domain\obj\Debug\netcoreapp3.1\FitEnd.Domain.AssemblyInfo.cs
+D:\Svi Projekti\ASP\FitEnd\FitEnd.Domain\FitEnd.Domain\obj\Debug\netcoreapp3.1\FitEnd.Domain.csproj.CoreCompileInputs.cache
+D:\Svi Projekti\ASP\FitEnd\FitEnd.Domain\FitEnd.Domain\obj\Debug\netcoreapp3.1\FitEnd.Domain.dll
+D:\Svi Projekti\ASP\FitEnd\FitEnd.Domain\FitEnd.Domain\obj\Debug\netcoreapp3.1\FitEnd.Domain.pdb

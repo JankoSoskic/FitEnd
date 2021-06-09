@@ -1,0 +1,15 @@
+D:\Svi Projekti\ASP\FitEnd\FitEnd.DataAccess\bin\Debug\netcoreapp3.1\FitEnd.DataAccess.deps.json
+D:\Svi Projekti\ASP\FitEnd\FitEnd.DataAccess\bin\Debug\netcoreapp3.1\FitEnd.DataAccess.runtimeconfig.json
+D:\Svi Projekti\ASP\FitEnd\FitEnd.DataAccess\bin\Debug\netcoreapp3.1\FitEnd.DataAccess.runtimeconfig.dev.json
+D:\Svi Projekti\ASP\FitEnd\FitEnd.DataAccess\bin\Debug\netcoreapp3.1\FitEnd.DataAccess.dll
+D:\Svi Projekti\ASP\FitEnd\FitEnd.DataAccess\bin\Debug\netcoreapp3.1\FitEnd.DataAccess.pdb
+D:\Svi Projekti\ASP\FitEnd\FitEnd.DataAccess\bin\Debug\netcoreapp3.1\FitEnd.Domen.dll
+D:\Svi Projekti\ASP\FitEnd\FitEnd.DataAccess\bin\Debug\netcoreapp3.1\FitEnd.Domen.pdb
+D:\Svi Projekti\ASP\FitEnd\FitEnd.DataAccess\obj\Debug\netcoreapp3.1\FitEnd.DataAccess.csprojAssemblyReference.cache
+D:\Svi Projekti\ASP\FitEnd\FitEnd.DataAccess\obj\Debug\netcoreapp3.1\FitEnd.DataAccess.AssemblyInfoInputs.cache
+D:\Svi Projekti\ASP\FitEnd\FitEnd.DataAccess\obj\Debug\netcoreapp3.1\FitEnd.DataAccess.AssemblyInfo.cs
+D:\Svi Projekti\ASP\FitEnd\FitEnd.DataAccess\obj\Debug\netcoreapp3.1\FitEnd.DataAccess.csproj.CoreCompileInputs.cache
+D:\Svi Projekti\ASP\FitEnd\FitEnd.DataAccess\obj\Debug\netcoreapp3.1\FitEnd.DataAccess.csproj.CopyComplete
+D:\Svi Projekti\ASP\FitEnd\FitEnd.DataAccess\obj\Debug\netcoreapp3.1\FitEnd.DataAccess.dll
+D:\Svi Projekti\ASP\FitEnd\FitEnd.DataAccess\obj\Debug\netcoreapp3.1\FitEnd.DataAccess.pdb
+D:\Svi Projekti\ASP\FitEnd\FitEnd.DataAccess\obj\Debug\netcoreapp3.1\FitEnd.DataAccess.genruntimeconfig.cache

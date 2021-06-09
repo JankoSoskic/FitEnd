@@ -1,0 +1,156 @@
+6/6/2021 11:54:32 PM__||__Ovde bi bilo ime prezime itd....__||__Search for every exercise paginated__||__{"IdTipaVezbe":1,"PoStrani":3,"KojaStrana":2}
+6/6/2021 11:54:39 PM__||__Ovde bi bilo ime prezime itd....__||__Search for every exercise paginated__||__{"IdTipaVezbe":2,"PoStrani":3,"KojaStrana":2}
+6/7/2021 7:56:01 PM__||__Anonymus actor__||__Getting every single Exercise type__||__{}
+6/7/2021 7:57:05 PM__||__Anonymus actor__||__Search for every exercise paginated__||__{"IdTipaVezbe":-1,"PoStrani":5,"KojaStrana":1}
+6/7/2021 8:47:59 PM__||__Anonymus actor__||__Register new user to system__||__{"Username":"Novi Korisnik1231245!","Ime":"JankoasdASDAS","Prezime":"SoskiASfsc","Password":"MojPassword1c","Email":"Jankulinjoil.com","Visina":50,"Tezina":1.0}
+6/7/2021 8:49:04 PM__||__Anonymus actor__||__Register new user to system__||__{"Username":"Novi Korisnik1231245!","Ime":"JankoasdASDAS","Prezime":"SoskiASfsc","Password":"MojPassword1c","Email":"Jankulinjo@gmail.com","Visina":50,"Tezina":1.0}
+6/7/2021 8:49:31 PM__||__Anonymus actor__||__Register new user to system__||__{"Username":"Novikorisnik","Ime":"","Prezime":"SoskiASfsc","Password":"MojPassword1c","Email":"Jankulinjo@gmail.com","Visina":50,"Tezina":1.0}
+6/7/2021 8:50:15 PM__||__Anonymus actor__||__Register new user to system__||__{"Username":"Novikorisnik","Ime":"Janko","Prezime":"Soskic","Password":"MojPassword1c","Email":"Jankulinjo@gmail.com","Visina":158,"Tezina":60.0}
+6/7/2021 8:54:03 PM__||__Anonymus actor__||__Register new user to system__||__{"Username":"Novikorisnik","Ime":"Janko","Prezime":"Soskic","Password":"MojPassword1c","Email":"Jankulinjo@gmail.com","Visina":158,"Tezina":60.0}
+6/7/2021 8:54:08 PM__||__Anonymus actor__||__Register new user to system__||__{"Username":"Novikorisnik","Ime":"Janko","Prezime":"Soskic","Password":"MojPassword1c","Email":"Jankulinjo@gmail.com","Visina":158,"Tezina":60.0}
+6/7/2021 9:44:24 PM__||__Anonymus actor__||__Register new user to system__||__{"Username":"Novikorisnik","Ime":"Janko","Prezime":"Soskic","Password":"MojPassword1c","Email":"Jankulinjo@gmail.com","Visina":158,"Tezina":60.0}
+6/7/2021 9:47:07 PM__||__Anonymus actor__||__Register new user to system__||__{"Username":"SaraSoskic","Ime":"Sara","Prezime":"Soskic","Password":"Solsker1234","Email":"soskicsara5@gmail.com","Visina":158,"Tezina":60.0}
+6/8/2021 1:52:57 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":0,"TillWhen":"2017-08-01T00:00:00"}
+6/8/2021 1:54:01 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":0,"TillWhen":"2017-08-01T00:00:00"}
+6/8/2021 1:54:14 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":15,"TillWhen":"2017-08-01T00:00:00"}
+6/8/2021 1:54:37 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":15,"TillWhen":"2022-08-01T00:00:00"}
+6/8/2021 1:56:17 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":15,"TillWhen":"2022-08-01T00:00:00"}
+6/8/2021 2:36:51 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":15,"TillWhen":"2022-08-01T00:00:00"}
+6/8/2021 2:38:46 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":15,"TillWhen":"2022-08-01T00:00:00"}
+6/8/2021 2:39:00 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":25,"TillWhen":"2022-08-01T00:00:00"}
+6/8/2021 2:39:59 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":80,"TillWhen":"2022-08-01T00:00:00"}
+6/8/2021 2:43:56 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":50,"TillWhen":"2022-08-01T00:00:00"}
+6/8/2021 2:52:15 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":50,"TillWhen":"2022-08-01T00:00:00"}
+6/8/2021 3:07:57 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":50,"TillWhen":"2022-08-01T00:00:00"}
+6/8/2021 3:12:01 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":50,"TillWhen":"2022-08-01T00:00:00"}
+6/8/2021 3:12:27 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":50,"TillWhen":"2021-08-01T00:00:00"}
+6/8/2021 3:19:20 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":50,"TillWhen":"2021-08-01T00:00:00"}
+6/8/2021 11:04:33 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":50,"TillWhen":"2021-08-01T00:00:00"}
+6/8/2021 11:04:39 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":50,"TillWhen":"2021-08-01T00:00:00"}
+6/8/2021 11:06:32 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":50,"TillWhen":"2021-08-01T00:00:00"}
+6/8/2021 11:06:52 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":50,"TillWhen":"2021-08-01T00:00:00"}
+6/8/2021 11:07:00 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":50,"TillWhen":"2021-08-01T00:00:00"}
+6/8/2021 11:07:06 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":50,"TillWhen":"2021-08-01T00:00:00"}
+6/8/2021 11:16:31 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":55,"TillWhen":"2021-08-01T00:00:00"}
+6/8/2021 11:38:30 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":55,"TillWhen":"2021-08-01T00:00:00"}
+6/8/2021 11:39:11 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":55,"TillWhen":"2021-08-01T00:00:00"}
+6/8/2021 11:45:30 AM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":55,"TillWhen":"2021-08-01T00:00:00"}
+6/8/2021 12:50:15 PM__||__Anonymus actor__||__Show the plans__||__{}
+6/8/2021 1:00:11 PM__||__Anonymus actor__||__Show the plans__||__{}
+6/8/2021 1:00:19 PM__||__Anonymus actor__||__Show the plans__||__{}
+6/8/2021 1:00:52 PM__||__Anonymus actor__||__Show the plans__||__{}
+6/8/2021 1:03:51 PM__||__Anonymus actor__||__Show the plans__||__{}
+6/8/2021 1:05:38 PM__||__Anonymus actor__||__Show the plans__||__{}
+6/8/2021 1:06:50 PM__||__Anonymus actor__||__Show the plans__||__{}
+6/8/2021 1:18:13 PM__||__Anonymus actor__||__Show the plans__||__{}
+6/8/2021 1:19:49 PM__||__Anonymus actor__||__Show the plans__||__{}
+6/8/2021 1:21:12 PM__||__Anonymus actor__||__Show the plans__||__{}
+6/8/2021 1:22:24 PM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":55,"TillWhen":"2021-08-01T00:00:00"}
+6/8/2021 1:24:08 PM__||__Anonymus actor__||__Show the plans__||__{}
+6/8/2021 1:31:14 PM__||__Anonymus actor__||__Show the plans__||__2
+6/8/2021 3:47:53 PM__||__Anonymus actor__||__Delete user plan__||__2
+6/8/2021 4:07:08 PM__||__Anonymus actor__||__Register new user to system__||__{"Username":"neki","Ime":null,"Prezime":null,"Password":"neki","Email":null,"Visina":0,"Tezina":0.0}
+6/8/2021 4:15:56 PM__||__Anonymus actor__||__Register new user to system__||__{"Username":"neki","Ime":null,"Prezime":null,"Password":"neki","Email":null,"Visina":0,"Tezina":0.0}
+6/8/2021 4:24:49 PM__||__Ovde bi bilo ime prezime itd....__||__Getting every single Exercise type__||__{}
+6/8/2021 4:25:52 PM__||__Ovde bi bilo ime prezime itd....__||__Getting every single Exercise type__||__{}
+6/8/2021 4:26:06 PM__||__Ovde bi bilo ime prezime itd....__||__Getting every single Exercise type__||__{}
+6/8/2021 4:27:20 PM__||__Anonymus actor__||__Getting every single Exercise type__||__{}
+6/8/2021 4:28:58 PM__||__Ovde bi bilo ime prezime itd....__||__Inserting new exercise type__||__{"Naziv":null}
+6/8/2021 4:51:34 PM__||__Sara Soskic(SaraSoskic)__||__Inserting new exercise type__||__{"Naziv":null}
+6/8/2021 4:52:45 PM__||__Sara Soskic(SaraSoskic)__||__Inserting new exercise type__||__{"Naziv":null}
+6/8/2021 4:52:58 PM__||__Sara Soskic(SaraSoskic)__||__Getting every single Exercise type__||__{}
+6/8/2021 6:01:55 PM__||__Anonymus actor__||__Delete user plan__||__1
+6/8/2021 6:03:04 PM__||__Anonymus actor__||__Delete user plan__||__1
+6/8/2021 6:20:25 PM__||__Anonymus actor__||__Search exercise by its Name__||__"Zgib"
+6/8/2021 6:20:46 PM__||__Anonymus actor__||__Search exercise by its Name__||__"Pull up"
+6/8/2021 6:20:56 PM__||__Anonymus actor__||__Search exercise by its Name__||__"Pul"
+6/8/2021 6:21:07 PM__||__Anonymus actor__||__Search exercise by its Name__||__"vez"
+6/8/2021 6:21:10 PM__||__Anonymus actor__||__Search exercise by its Name__||__"kroz"
+6/8/2021 6:21:14 PM__||__Anonymus actor__||__Search exercise by its Name__||__"Prolazak"
+6/8/2021 6:21:33 PM__||__Anonymus actor__||__Search exercise by its Name__||__"i"
+6/8/2021 7:03:52 PM__||__Anonymus actor__||__Update user weight__||__{"UserWeight":150}
+6/8/2021 7:04:30 PM__||__Anonymus actor__||__Update user weight__||__{"UserWeight":150}
+6/8/2021 7:04:45 PM__||__Anonymus actor__||__Update user weight__||__{"UserWeight":60}
+6/8/2021 7:58:28 PM__||__Anonymus actor__||__Search for users__||__null
+6/8/2021 7:59:44 PM__||__Anonymus actor__||__Search for users__||__"a"
+6/8/2021 8:01:12 PM__||__Anonymus actor__||__Search for users__||__null
+6/8/2021 8:02:08 PM__||__Anonymus actor__||__Search for users__||__null
+6/8/2021 8:04:51 PM__||__Anonymus actor__||__Search for users__||__null
+6/8/2021 8:05:15 PM__||__Anonymus actor__||__Search for users__||__"Janko"
+6/8/2021 8:05:32 PM__||__Anonymus actor__||__Search for users__||__"NKO"
+6/8/2021 8:05:34 PM__||__Anonymus actor__||__Search for users__||__"NKO"
+6/8/2021 8:05:38 PM__||__Anonymus actor__||__Search for users__||__"AAS"
+6/8/2021 8:05:42 PM__||__Anonymus actor__||__Search for users__||__"SA"
+6/8/2021 8:05:52 PM__||__Anonymus actor__||__Search for users__||__"Soskic"
+6/8/2021 8:33:00 PM__||__Anonymus actor__||__Search for users__||__null
+6/8/2021 8:33:35 PM__||__Anonymus actor__||__Search for users__||__null
+6/8/2021 8:34:19 PM__||__Anonymus actor__||__Change user role__||__{"IdKorisnika":1,"NoviRole":3}
+6/8/2021 8:34:41 PM__||__Anonymus actor__||__Search for users__||__null
+6/8/2021 8:35:27 PM__||__Anonymus actor__||__Change user role__||__{"IdKorisnika":1,"NoviRole":3}
+6/8/2021 8:35:40 PM__||__Anonymus actor__||__Change user role__||__{"IdKorisnika":1,"NoviRole":5}
+6/8/2021 8:35:47 PM__||__Anonymus actor__||__Change user role__||__{"IdKorisnika":5,"NoviRole":5}
+6/8/2021 8:35:55 PM__||__Anonymus actor__||__Change user role__||__{"IdKorisnika":5,"NoviRole":5}
+6/8/2021 8:39:37 PM__||__Anonymus actor__||__Change user role__||__{"IdKorisnika":5,"NoviRole":5}
+6/8/2021 8:41:44 PM__||__Anonymus actor__||__Change user role__||__{"IdKorisnika":5,"NoviRole":5}
+6/8/2021 8:44:59 PM__||__Anonymus actor__||__Change user role__||__{"IdKorisnika":5,"NoviRole":5}
+6/8/2021 8:45:53 PM__||__Anonymus actor__||__Change user role__||__{"IdKorisnika":5,"NoviRole":5}
+6/8/2021 8:46:12 PM__||__Anonymus actor__||__Change user role__||__{"IdKorisnika":5,"NoviRole":2}
+6/8/2021 8:52:40 PM__||__Anonymus actor__||__Search for every role__||__{}
+6/8/2021 9:00:21 PM__||__Anonymus actor__||__Search for users__||__null
+6/8/2021 9:03:24 PM__||__Anonymus actor__||__Delete user__||__4
+6/8/2021 11:04:04 PM__||__Anonymus actor__||__Reading key insights from txt file__||__null
+6/8/2021 11:08:35 PM__||__Anonymus actor__||__Reading key insights from txt file__||__null
+6/8/2021 11:09:01 PM__||__Anonymus actor__||__Reading key insights from txt file__||__null
+6/8/2021 11:09:43 PM__||__Anonymus actor__||__Reading key insights from txt file__||__null
+6/8/2021 11:10:04 PM__||__Anonymus actor__||__Reading key insights from txt file__||__null
+6/8/2021 11:11:50 PM__||__Anonymus actor__||__Reading key insights from txt file__||__null
+6/8/2021 11:12:10 PM__||__Anonymus actor__||__Reading key insights from txt file__||__null
+6/8/2021 11:12:49 PM__||__Anonymus actor__||__Reading key insights from txt file__||__null
+6/8/2021 11:14:36 PM__||__Anonymus actor__||__Reading key insights from txt file__||__null
+6/8/2021 11:15:59 PM__||__Anonymus actor__||__Reading key insights from txt file__||__null
+6/8/2021 11:17:04 PM__||__Anonymus actor__||__Reading key insights from txt file__||__null
+6/8/2021 11:18:35 PM__||__Anonymus actor__||__Search for every exercise paginated__||__{"IdTipaVezbe":-1,"PoStrani":5,"KojaStrana":1}
+6/8/2021 11:19:29 PM__||__Anonymus actor__||__Reading key insights from txt file__||__null
+6/8/2021 11:21:31 PM__||__Anonymus actor__||__Reading key insights from txt file__||__null
+6/8/2021 11:24:07 PM__||__Anonymus actor__||__Reading key insights from txt file__||__null
+6/8/2021 11:25:05 PM__||__Anonymus actor__||__Reading key insights from txt file__||__null
+6/8/2021 11:27:18 PM__||__Anonymus actor__||__Reading key insights from txt file__||__null
+6/9/2021 12:09:53 AM__||__Anonymus actor__||__Reading key insights from txt file__||__null
+6/9/2021 12:10:02 AM__||__Anonymus actor__||__Getting every single Exercise type__||__{}
+6/9/2021 12:10:11 AM__||__Anonymus actor__||__Search for every exercise paginated__||__{"IdTipaVezbe":-1,"PoStrani":5,"KojaStrana":1}
+6/9/2021 5:09:59 PM__||__Anonymus actor__||__Search for every exercise paginated__||__{"IdTipaVezbe":-1,"PoStrani":5,"KojaStrana":1}
+6/9/2021 5:11:01 PM__||__Anonymus actor__||__Search for every role__||__{}
+6/9/2021 5:13:18 PM__||__Anonymus actor__||__Search for users__||__"Register"
+6/9/2021 5:13:51 PM__||__Anonymus actor__||__Search for users__||__"Login"
+6/9/2021 5:18:35 PM__||__Petar Petrovic(Regularni)__||__Show the plan__||__5
+6/9/2021 5:19:03 PM__||__Petar Petrovic(Regularni)__||__Show the plan__||__5
+6/9/2021 5:32:56 PM__||__Petar Petrovic(Regularni)__||__Show the plan__||__5
+6/9/2021 5:50:32 PM__||__Anonymus actor__||__Register new user to system__||__{"Username":"SaraSoskic","Ime":"Sara","Prezime":"Soskic","Password":"Solsker1234","Email":"soskicsara5@gmail.com","Visina":165,"Tezina":63.0}
+6/9/2021 5:53:13 PM__||__Anonymus actor__||__Create new user plan__||__{"WeightGoal":57,"TillWhen":"2021-07-19T00:00:00"}
+6/9/2021 5:54:15 PM__||__Anonymus actor__||__Register new user to system__||__{"Username":"SaraSoskic","Ime":null,"Prezime":null,"Password":"Solsker1234","Email":null,"Visina":0,"Tezina":0.0}
+6/9/2021 5:55:13 PM__||__Sara Soskic(SaraSoskic)__||__Create new user plan__||__{"WeightGoal":57,"TillWhen":"2021-07-19T00:00:00"}
+6/9/2021 5:56:48 PM__||__Sara Soskic(SaraSoskic)__||__Create new user plan__||__{"WeightGoal":57,"TillWhen":"2021-07-19T00:00:00"}
+6/9/2021 5:57:41 PM__||__Sara Soskic(SaraSoskic)__||__Create new user plan__||__{"WeightGoal":57,"TillWhen":"2021-07-19T00:00:00"}
+6/9/2021 5:57:49 PM__||__Sara Soskic(SaraSoskic)__||__Show the plan__||__1
+6/9/2021 5:58:19 PM__||__Sara Soskic(SaraSoskic)__||__Show the plan__||__1
+6/9/2021 6:01:25 PM__||__Sara Soskic(SaraSoskic)__||__Show the plan__||__1
+6/9/2021 6:02:36 PM__||__Sara Soskic(SaraSoskic)__||__Show the plan__||__1
+6/9/2021 6:03:13 PM__||__Sara Soskic(SaraSoskic)__||__Show the plan__||__1
+6/9/2021 6:04:26 PM__||__Sara Soskic(SaraSoskic)__||__Show the plan__||__1
+6/9/2021 6:07:42 PM__||__Sara Soskic(SaraSoskic)__||__Show the plan__||__1
+6/9/2021 6:09:06 PM__||__Sara Soskic(SaraSoskic)__||__Show the plan__||__1
+6/9/2021 6:11:46 PM__||__Sara Soskic(SaraSoskic)__||__Create new user plan__||__{"WeightGoal":57,"TillWhen":"2021-07-19T00:00:00"}
+6/9/2021 6:13:37 PM__||__Sara Soskic(SaraSoskic)__||__Create new user plan__||__{"WeightGoal":57,"TillWhen":"2021-07-19T00:00:00"}
+6/9/2021 6:13:48 PM__||__Sara Soskic(SaraSoskic)__||__Show the plan__||__3
+6/9/2021 6:16:39 PM__||__Sara Soskic(SaraSoskic)__||__Show the plan__||__3
+6/9/2021 6:20:35 PM__||__Sara Soskic(SaraSoskic)__||__Search Exercise with ID__||__5
+6/9/2021 6:20:42 PM__||__Sara Soskic(SaraSoskic)__||__Search for every exercise paginated__||__{"IdTipaVezbe":-1,"PoStrani":5,"KojaStrana":1}
+6/9/2021 6:21:55 PM__||__Admin Adminovic(Admin)__||__Search for every role__||__{}
+6/9/2021 6:22:07 PM__||__Admin Adminovic(Admin)__||__Reading key insights from txt file__||__null
+6/9/2021 6:23:01 PM__||__Admin Adminovic(Admin)__||__Change user role__||__{"IdKorisnika":3,"NoviRole":2}
+6/9/2021 6:23:18 PM__||__Admin Adminovic(Admin)__||__Search for users__||__"Sara"
+6/9/2021 6:23:27 PM__||__Admin Adminovic(Admin)__||__Search for users__||__"a"
+6/9/2021 6:39:22 PM__||__Anonymus actor__||__Reading key insights from txt file__||__"asd"
+6/9/2021 6:40:29 PM__||__Anonymus actor__||__Reading key insights from txt file__||__"asd"
+6/9/2021 6:40:40 PM__||__Anonymus actor__||__Search for users__||__"a"
+6/9/2021 6:42:17 PM__||__Anonymus actor__||__Search for every role__||__{}

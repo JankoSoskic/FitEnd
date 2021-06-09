@@ -1,0 +1,282 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.Application\\FitEnd.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.Application\\FitEnd.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.Application\\FitEnd.Application.csproj",
+        "projectName": "FitEnd.Application",
+        "projectPath": "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.Application\\FitEnd.Application.csproj",
+        "packagesPath": "C:\\Users\\Matori Kile\\.nuget\\packages\\",
+        "outputPath": "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Matori Kile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.DataAccess\\FitEnd.DataAccess.csproj": {
+                "projectPath": "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.DataAccess\\FitEnd.DataAccess.csproj"
+              },
+              "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.Domain\\FitEnd.Domain.csproj": {
+                "projectPath": "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.Domain\\FitEnd.Domain.csproj"
+              },
+              "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.Domen\\FitEnd.Domen.csproj": {
+                "projectPath": "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.Domen\\FitEnd.Domen.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.DataAccess\\FitEnd.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.DataAccess\\FitEnd.DataAccess.csproj",
+        "projectName": "FitEnd.DataAccess",
+        "projectPath": "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.DataAccess\\FitEnd.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Matori Kile\\.nuget\\packages\\",
+        "outputPath": "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Matori Kile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.Domen\\FitEnd.Domen.csproj": {
+                "projectPath": "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.Domen\\FitEnd.Domen.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.Domain\\FitEnd.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.Domain\\FitEnd.Domain.csproj",
+        "projectName": "FitEnd.Domain",
+        "projectPath": "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.Domain\\FitEnd.Domain.csproj",
+        "packagesPath": "C:\\Users\\Matori Kile\\.nuget\\packages\\",
+        "outputPath": "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Matori Kile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.Domen\\FitEnd.Domen.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.Domen\\FitEnd.Domen.csproj",
+        "projectName": "FitEnd.Domen",
+        "projectPath": "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.Domen\\FitEnd.Domen.csproj",
+        "packagesPath": "C:\\Users\\Matori Kile\\.nuget\\packages\\",
+        "outputPath": "D:\\Svi Projekti\\ASP\\FitEnd\\FitEnd.Domen\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Matori Kile\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
